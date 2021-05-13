@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374732384105",
+    "project_id": "fahs-66b44",
+    "storage_bucket": "fahs-66b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374732384105:android:0cc94e06d33f6780adbff8",
+        "android_client_info": {
+          "package_name": "com.tqnee.fahs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374732384105-90otdu96sbfpa4h87j16e4rmb064bfa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_BWPZsDLlPoZrb78GQEcAiSXqWxc3ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374732384105-90otdu96sbfpa4h87j16e4rmb064bfa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
